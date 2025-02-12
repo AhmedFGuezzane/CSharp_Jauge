@@ -43,6 +43,9 @@ This project is a C# application that features a graphical power gauge with real
 - 🚀 Implement animation support for a more interactive UI.
 - 🖥 Extend data persistence to external databases.
 
+## License
+Ce projet est sous licence MIT.
+
 ---
 Feel free to contribute, suggest improvements, or report issues! 🚀
 
