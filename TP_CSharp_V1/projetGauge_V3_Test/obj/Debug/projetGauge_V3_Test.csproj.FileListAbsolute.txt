@@ -1,0 +1,66 @@
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.exe.config
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.exe
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.pdb
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\GaugeV3.dll
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\GaugeV3.pdb
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.Form1.resources
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.Properties.Resources.resources
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGa.4EAA3A9C.Up2Date
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.exe
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.pdb
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.exe.manifest
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.application
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.exe.manifest
+C:\Users\ahmed\source\repos\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.application
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.exe.config
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.exe.manifest
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.application
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.exe
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\projetGauge_V3_Test.pdb
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\GaugeV3.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\Google.Protobuf.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Buffers.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Memory.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\ZstdSharp.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\GaugeV3.pdb
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\Google.Protobuf.pdb
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\Google.Protobuf.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\MySql.Data.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Buffers.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Memory.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.Form1.resources
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.exe.manifest
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.application
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGa.4EAA3A9C.Up2Date
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.exe
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\projetGauge_V3_Test\obj\Debug\projetGauge_V3_Test.pdb

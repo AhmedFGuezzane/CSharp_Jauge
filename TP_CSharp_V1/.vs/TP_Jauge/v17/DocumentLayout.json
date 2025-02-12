@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047AE01B-D9C2-422B-A3B3-E84EC7CCD194}|GaugeV3\\GaugeV3.csproj|c:\\users\\ahmed\\onedrive\\documents\\bdeb\\automne2024\\programmation par composants\\tp\\tp_csharp_v1\\gaugev3\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047AE01B-D9C2-422B-A3B3-E84EC7CCD194}|GaugeV3\\GaugeV3.csproj|solutionrelative:gaugev3\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047AE01B-D9C2-422B-A3B3-E84EC7CCD194}|GaugeV3\\GaugeV3.csproj|C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\gaugev3\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{047AE01B-D9C2-422B-A3B3-E84EC7CCD194}|GaugeV3\\GaugeV3.csproj|solutionrelative:gaugev3\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB6ACE-6B40-41B1-86D4-568B3C12FE16}|projetGauge_V3_Test\\projetGauge_V3_Test.csproj|C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\projetgauge_v3_test\\dal\\datadal\\datadao_inmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFB6ACE-6B40-41B1-86D4-568B3C12FE16}|projetGauge_V3_Test\\projetGauge_V3_Test.csproj|solutionrelative:projetgauge_v3_test\\dal\\datadal\\datadao_inmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB6ACE-6B40-41B1-86D4-568B3C12FE16}|projetGauge_V3_Test\\projetGauge_V3_Test.csproj|C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\projetgauge_v3_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FFB6ACE-6B40-41B1-86D4-568B3C12FE16}|projetGauge_V3_Test\\projetGauge_V3_Test.csproj|solutionrelative:projetgauge_v3_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB6ACE-6B40-41B1-86D4-568B3C12FE16}|projetGauge_V3_Test\\projetGauge_V3_Test.csproj|C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\projetgauge_v3_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFB6ACE-6B40-41B1-86D4-568B3C12FE16}|projetGauge_V3_Test\\projetGauge_V3_Test.csproj|solutionrelative:projetgauge_v3_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 342,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\GaugeV3\\UserControl1.cs",
+              "RelativeDocumentMoniker": "GaugeV3\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\GaugeV3\\UserControl1.cs",
+              "RelativeToolTip": "GaugeV3\\UserControl1.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAswAQBAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:00:01.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\GaugeV3\\UserControl1.cs",
+              "RelativeDocumentMoniker": "GaugeV3\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\GaugeV3\\UserControl1.cs [Design]",
+              "RelativeToolTip": "GaugeV3\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:44:52.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\projetGauge_V3_Test\\Form1.cs",
+              "RelativeDocumentMoniker": "projetGauge_V3_Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\projetGauge_V3_Test\\Form1.cs",
+              "RelativeToolTip": "projetGauge_V3_Test\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAywCoBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:54:41.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\projetGauge_V3_Test\\Form1.cs",
+              "RelativeDocumentMoniker": "projetGauge_V3_Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\projetGauge_V3_Test\\Form1.cs [Design]",
+              "RelativeToolTip": "projetGauge_V3_Test\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:53:43.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataDAO_InMemory.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\projetGauge_V3_Test\\DAL\\DataDAL\\DataDAO_InMemory.cs",
+              "RelativeDocumentMoniker": "projetGauge_V3_Test\\DAL\\DataDAL\\DataDAO_InMemory.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Documents\\BdeB\\AUTOMNE2024\\PROGRAMMATION PAR COMPOSANTS\\TP\\TP_CSharp_V1\\projetGauge_V3_Test\\DAL\\DataDAL\\DataDAO_InMemory.cs",
+              "RelativeToolTip": "projetGauge_V3_Test\\DAL\\DataDAL\\DataDAO_InMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:53:14.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

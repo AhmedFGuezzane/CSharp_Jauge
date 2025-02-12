@@ -1,0 +1,8 @@
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\GaugeV3\bin\Release\GaugeV3.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\GaugeV3\bin\Release\GaugeV3.pdb
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\GaugeV3\obj\Release\GaugeV3.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\GaugeV3\obj\Release\GaugeV3.Gauge.resources
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\GaugeV3\obj\Release\GaugeV3.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\GaugeV3\obj\Release\GaugeV3.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\GaugeV3\obj\Release\GaugeV3.dll
+C:\Users\ahmed\OneDrive\Documents\BdeB\AUTOMNE2024\PROGRAMMATION PAR COMPOSANTS\TP\TP_CSharp_V1\GaugeV3\obj\Release\GaugeV3.pdb
